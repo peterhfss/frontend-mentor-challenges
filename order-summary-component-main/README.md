@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Go to repository this project](https://github.com/peterhfss/frontend-mentor-challenges/tree/main/order-summary-component-main)
+- Live Site URL: [Watch Live this project here](https://frontend-mentor-challenges-lake-nine.vercel.app/)
 
 ## My process
 
