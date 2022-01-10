@@ -9,4 +9,4 @@ All the projects are hosted on Vercel,check out the link in repository of projec
 -----------------------------
 Project Name
 
-[Order Summary Component]()
+[Order Summary Component](https://github.com/peterhfss/frontend-mentor-challenges/tree/main/order-summary-component-main)
